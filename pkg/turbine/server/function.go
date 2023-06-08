@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	sdk "github.com/meroxa/turbine-go/v2/pkg/turbine"
-	pb "github.com/meroxa/turbine-go/v2/proto"
+	sdk "github.com/hariso/turbine-go/v2/pkg/turbine"
+	pb "github.com/hariso/turbine-go/v2/proto"
 )
 
 type function struct {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	sdk "github.com/meroxa/turbine-go/v2/pkg/turbine"
+	sdk "github.com/hariso/turbine-go/v2/pkg/turbine"
 )
 
 func Test_Records(t *testing.T) {

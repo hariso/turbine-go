@@ -3,7 +3,7 @@ package build
 import (
 	"context"
 
-	sdk "github.com/meroxa/turbine-go/v2/pkg/turbine"
+	sdk "github.com/hariso/turbine-go/v2/pkg/turbine"
 
 	pb "github.com/meroxa/turbine-core/lib/go/github.com/meroxa/turbine/core"
 	"github.com/meroxa/turbine-core/pkg/client"

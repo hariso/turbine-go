@@ -3,7 +3,7 @@ package build
 import (
 	"context"
 
-	sdk "github.com/meroxa/turbine-go/v2/pkg/turbine"
+	sdk "github.com/hariso/turbine-go/v2/pkg/turbine"
 )
 
 func Run(ctx context.Context, app sdk.App, addr, gitsha, path string) error {

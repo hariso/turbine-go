@@ -1,8 +1,8 @@
 package build
 
 import (
+	sdk "github.com/hariso/turbine-go/v2/pkg/turbine"
 	pb "github.com/meroxa/turbine-core/lib/go/github.com/meroxa/turbine/core"
-	sdk "github.com/meroxa/turbine-go/v2/pkg/turbine"
 )
 
 func connectionOptions(opts sdk.ConnectionOptions) *pb.Configs {
